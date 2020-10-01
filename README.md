@@ -26,7 +26,7 @@ A Laravel 4 package for adding jobs listings to a website
 
 ## Installation
 
-Add the following to you composer.json file
+Add the following code to you composer.json file
 
     "fbf/laravel-jobs": "dev-master"
 
